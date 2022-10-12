@@ -10,7 +10,7 @@ First `cd` into the project folder. Then activate the virtual environment with
 $ pipenv shell
 ```
 
-and then run the app by running 
+and run the application with
 
 ```console 
 $ streamlit run app.py
